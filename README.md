@@ -21,10 +21,9 @@ Acceptance Criteria
 
 ## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [Screenshot](#Screenshot)
-* [Credits](#credits)
+* [Live Url](#live)
+* [Repository Url](#repositiory)
 * [License](#license)
 
 
@@ -35,6 +34,15 @@ Screenshot of final web page
 ![horiseon website](assets/images/screenshot.png)
 
 
+## live
+
+Live URL of site
+
+https://jmax407.github.io/horiseon
+
+## Repository
+
+https://github.com/jmax407/horiseon
 
 ## License
 
